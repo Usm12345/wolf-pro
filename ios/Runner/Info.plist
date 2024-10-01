@@ -2,7 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleDevelopmentRegion</key>
+	
+<key>CFBundleIdentifier</key>
+    <string>com.kelterinnovations.wolfpak</string>
+
+<key>NSCameraUsageDescription</key>
+    <string>This app requires access to the camera to allow users to take photos or videos.</string>
+<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Wolfpak</string>
